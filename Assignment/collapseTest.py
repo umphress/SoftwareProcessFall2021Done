@@ -2,7 +2,7 @@ import unittest
 import Assignment.collapse as collapse
 
 
-class PrimeInRangeTest(unittest.TestCase):
+class CollapseTest(unittest.TestCase):
 
 # Happy path test
     def test100_100_ShouldCollapseSingleDigit(self):
